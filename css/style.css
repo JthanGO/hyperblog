@@ -43,3 +43,8 @@ body {
 #post {
     background: white;
 }
+#footer {
+    background-color: #33A;
+    color: white;
+    text-align: center;
+}
