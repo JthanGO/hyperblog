@@ -20,3 +20,6 @@ Master 2
 
 Nodo 1
 
+Nodo 2
+
+Nodo 3
